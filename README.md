@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Turyfay
+# 👋 Hi, I’m David Alexander Enamorado
 ### 👀 I’m interested in ...
 - Music
 - Movie
