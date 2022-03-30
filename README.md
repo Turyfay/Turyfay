@@ -1,4 +1,4 @@
-# 👋 Hi, I’m David Alexander Enamorado
+# 👋 Hi, I’m davidocho(denamorado)
 ### 👀 I’m interested in ...
 - Music
 - Movie
