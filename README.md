@@ -1,4 +1,4 @@
-# 👋 Hi, I’m davidocho(denamorado)
+# 👋 Hi, I’m David Enamorado(denamorado)
 ### 👀 I’m interested in ...
 - Music
 - Movie
