@@ -13,9 +13,6 @@
 
 
 <table style="width:100%">
- 
-   
-  
   <tr>
     <td>
         <div align="center">
@@ -27,13 +24,7 @@
                     David Enamorado
                 </a>
             </h2>
-        </div>
-    </td>
-    <td>
-        <div align="center">
-            <h3>Roles: </h3>
-            <h5>Backend</h5>
-             <a href="https://www.linkedin.com/in/denamorado/" target="_blank" rel="author">
+         <a href="https://www.linkedin.com/in/denamorado/" target="_blank" rel="author">
                   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="My Linkedin" height="45px">
                   <h3>
                       Connect to my LinkedIn
@@ -46,10 +37,7 @@
                     Check my GitHub Profile
                 </h3>
             </a>
-          
         </div>
-     </td>
+    </td>
     </tr>
- 
-
 </table> 
