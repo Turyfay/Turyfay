@@ -8,5 +8,5 @@
 - Nest js
 - Express js
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=turyfay&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+## Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=turyfay&row=1&column=4&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
