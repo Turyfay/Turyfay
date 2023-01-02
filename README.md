@@ -20,7 +20,7 @@
     <td>
         <div align="center">
             <a href="https://github.com/Turyfay" target="_blank" rel="author">
-                <img src="https://avatars2.githubusercontent.com/u/39543882?s=460&v=4" style="border-radius: 10%; min-width: 100px;" alt="David Enamorado's Photo" width="200px">
+                <img src="https://avatars2.githubusercontent.com/u/39543882?s=460&v=4" style="border-radius: 10%; min-width: 100px;" alt="David Enamorado's Photo"                      width="200px">
             </a>
             <h2>
                 <a href="https://github.com/Turyfay" target="_blank" rel="author">
@@ -41,8 +41,7 @@
               </a>
             <a href="https://github.com/Turyfay" target="_blank" rel="author">
                 <img src="https://img.icons8.com/color/48/000000/github--v1.png" 
-                style="border-radius: 10%" alt="My GitHub" height="45px"
-              >
+                style="border-radius: 10%" alt="My GitHub" height="45px">
                 <h3>
                     Check my GitHub Profile
                 </h3>
