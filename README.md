@@ -18,7 +18,7 @@
       <div align="center">
         <h2>
           <a href="https://github.com/Turyfay" target="_blank" rel="author">
-            David Enamorado
+            David Alexander Enamorado Aceituno
           </a>
         </h2>
         <a
