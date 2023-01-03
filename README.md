@@ -1,7 +1,7 @@
 # 👋 Hi, I’m David Enamorado
-### 👀 I’m interested in ...
-- Music
-- Movie
+
+![Presentation](gifs/presentation.gif)
+
 
 **Currently working with:**
 
@@ -26,7 +26,6 @@
 ### 🌱 I’m currently learning ...
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-
 
 
 
