@@ -1,4 +1,4 @@
-# 👋 Hi, I’m David Enamorado(denamorado)
+# 👋 Hi, I’m David Enamorado
 ### 👀 I’m interested in ...
 - Music
 - Movie
