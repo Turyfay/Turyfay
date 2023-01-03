@@ -38,3 +38,10 @@
 [![GitHub](icons/github.png)](https://github.com/Turyfay)
 [![GitLab](icons/gitlab.png)](https://gitlab.com/david.enamorado)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/denamorado/)
+
+
+### Profile Views
+counting of visitors to this page in this section started from June 03, 2023
+
+![](https://count.getloli.com/get/@Turyfay.github.readme)
+</br>
