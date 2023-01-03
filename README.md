@@ -40,7 +40,7 @@
 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 03, 2023
+counting of visitors to this page in this section started from Jan 03, 2023
 
 ![](https://count.getloli.com/get/@Turyfay.github.readme)
 </br>
